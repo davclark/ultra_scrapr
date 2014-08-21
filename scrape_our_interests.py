@@ -17,5 +17,16 @@ for curr_url in test_urls:
     # save_web_to_file(curr_url)
     r = requests.get(curr_url)
     tree = html.fromstring(r.text)
-    print tree.body.text_content()[:100]
+    entries = tree.xpath('//span[@class="txt"]')
+    data_table = []
+    for e in entries:
+        try:
+            price = e.xpath('.//span[@class="price"]/text()')[0]
+            date = e.xpath('.//span[@class="date"]/text()')[0]
+        except IndexError:
+            continue
+        # print e.text_content()
+        data_table.append([date, price])
+
+    print data_table
 
