@@ -1,27 +1,21 @@
 __author__ = 'Dav Clark'
 
-from lxml import html
 import requests
 import io
+from lxml import html
 
-# r = requests.get('http://statsforchange.org')
-# print 'status:', r.status_code
-# print 'initial text:', r.text[:40]
-# tree = html.fromstring(r.text)
+from ultra_scrapr_lib import save_web_to_file
 
-test_urls = ['http://statsforchange.org',
-             'http://sfbay.craigslist.org/mca/']
+# test_urls = ['http://statsforchange.org',
+#             'http://sfbay.craigslist.org/mca/']
 
-# print tree.body.text_content()
-
-def save_web_to_file(url):
-    '''Use requests to fetch url, then save to a file'''
-    r = requests.get(url)
-    # Might be a problem if URL doesn't start with http://
-    stripped_url = url.split('//')[1]
-    filename = stripped_url.replace('/', '_')
-    with io.open(filename, 'w', encoding='utf8') as outfile:
-        outfile.write(r.text)
+with io.open('urls.txt', 'r', encoding='utf8') as url_list:
+    test_urls = url_list.readlines()
 
 for curr_url in test_urls:
-    save_web_to_file(curr_url)
+    curr_url = curr_url.strip()
+    # save_web_to_file(curr_url)
+    r = requests.get(curr_url)
+    tree = html.fromstring(r.text)
+    print tree.body.text_content()[:100]
+

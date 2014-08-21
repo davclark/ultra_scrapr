@@ -1,0 +1,2 @@
+http://localhost:8000/sfbay.craigslist.org_mca_
+http://localhost:8000/statsforchange.org
