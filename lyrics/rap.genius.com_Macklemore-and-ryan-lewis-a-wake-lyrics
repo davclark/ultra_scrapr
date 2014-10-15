@@ -1,0 +1,1417 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html class="rap" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en">
+<head>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","ttGuid":"","queueTime":8,"transactionName":"IFleFkcJCAhdERtFXQ1RQ01GDgsT","beacon":"beacon-1.newrelic.com","agentToken":null,"applicationID":"309898","licenseKey":"25a615a0b6","agent":"js-agent.newrelic.com/nr-476.min.js","applicationTime":72}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+  <script type="text/javascript">
+//<![CDATA[
+var _sf_startpt=(new Date()).getTime();
+//]]>
+</script>
+  <title>Macklemore and Ryan Lewis – A Wake Lyrics | Genius</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link title="Genius" type="application/opensearchdescription+xml" rel="search" href="http://rap.genius.com/opensearch.xml">
+
+  <meta property="og:site_name" content="Genius"/>
+<meta property="fb:app_id" content="265539304824" />
+
+<script type="text/javascript">
+//<![CDATA[
+var disqus_developer = 0;
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var PRODUCTION_ENV = true;
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var MOBILE_DEVICE = false;
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var CURRENT_USER = null
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var ADMIN_LOGGED_IN = false;
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var PUSHER_APP_KEY = '6d893fcc6a0c695853ac';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var SOUNDCLOUD_CLIENT_ID = '632c544d1c382f82526f369877aab5c0';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var FILEPICKER_API_KEY = 'Ar03MDs73TQm241ZgLwfjz';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var FILEPICKER_POLICY = 'eyJjYWxsIjpbInBpY2siLCJwaWNrQW5kU3RvcmUiLCJzdG9yZSIsInJlYWQiXSwiZXhwaXJ5IjoiMTQ1ODIyODIyMiJ9';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var FILEPICKER_SIGNATURE = '6dea69d4bb3a9273da40b82319809f8a65cbb452822bca47675cffb2b5dece92';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var DISABLE_VIDEO_RECORDING = false;
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var FIREHOSE_PUSHER_CHANNEL = 'activity_stream.firehose';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var S3_IMAGE_BUCKET = 'filepicker-images-rapgenius';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var S3_AUDIO_BUCKET = 'rapgenius-audio';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var EMBEDLY_KEY = 'fc778e44915911e088ae4040f9f86dcd'
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var CAMERA_TAG_UUID = '62243f30-7952-0130-3e29-1231390fcc11'
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var CAMERA_TAG_WIDTH = 450
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var CAMERA_TAG_HEIGHT = 253
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var CANONICAL_DOMAIN_PARTS_LENGTH = 2
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var VALID_SUBDOMAINS = ["rock","law","x","rap","sports","lit","r-b","screen","news","history","pop","tech","meta"]
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var ANNOTATION_QTIP_POSITION = {"adjustments":{"screen":true,"x":10},"target":"rightMiddle","tooltip":"leftMiddle"}
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var TOP_LEVEL_BLOCK_CONTAINERS = ["section","h6","h5","h4","h3","h2","h1","fieldset","aside","ul","menu","dl","table","pre","ol","nav","header","div","article","blockquote","p","form","address","footer"]
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var TOP_LEVEL_STANDALONE_BLOCKS = ["hr","img"]
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var APP_STORE_URL = 'https://itunes.apple.com/us/app/genius-by-rap-genius-search/id709482991?ls=1&mt=8'
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var SERVICE_NAME = 'Genius'
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var CANONICAL_DOMAIN = 'genius.com'
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+  var I18n = I18n || {};
+
+  I18n.defaultLocale = "en";
+  I18n.locale = "en";
+
+  I18n.translations = {"en":{"media_player_error_message":"There was a problem loading the player media. <a href='#' id='fix_audio'>Fix it!</a>","iq":"IQ","recaptcha_explanation":"Sorry, but this %{model_name} looks like it might be spam! Prove to us you're a human with the form below.","for_beginners":{"song_id":77368},"activemodel":{"activity_stream_line_item_message":{"message":{"user":{"make_educator":{"user":{"other":"%{actors} made %{target} educators","one":"%{actors} made %{target} an educator"}},"make_moderator":{"user":{"other":"%{actors} made %{target} moderators","one":"%{actors} made %{target} a moderator"}},"create":{"identity":"Your %{provider} friend %{name} is on %{service_name}!"},"Follow":{"artist":"%{actors} followed %{target}"},"make_editor":{"user":{"other":"%{actors} made %{target} editors","one":"%{actors} made %{target} an editor"}},"GroupInvitation":{"user":"%{actors} just gave %{target} access to the %{group_human_name} <em>%{context}</em>"},"make_regulator":{"user":{"other":"%{actors} made %{target} regulators","one":"%{actors} made %{target} a regulator"}},"Mention":{"user":"%{actors} %{verb} %{target} in <em>%{context}</em>","group":"%{actors} %{verb} %{target} in <em>%{context}</em>"},"Pyong":{"song":"%{actors} %{verb} %{target} %{note}"}},"default":"%{actors} %{verb} %{target} %{context}"}}},"number":{"currency":{"format":{"precision":2,"separator":".","delimiter":",","format":"%u%n","unit":"$"}},"precision":{"format":{"delimiter":""}},"human":{"format":{"precision":1,"delimiter":""},"storage_units":{"format":"%n %u","units":{"mb":"MB","gb":"GB","tb":"TB","byte":{"other":"Bytes","one":"Byte"},"kb":"KB"}}},"format":{"precision":3,"separator":".","delimiter":","},"percentage":{"format":{"delimiter":""}}},"sle":{"name":"Description","edit_instruction":"Edit the description to add:"},"annotator":{"already_annotated_referent":"An annotation cannot contain another annotation","referent_mismatch":"Whoops, couldn't find that line!","unable_to_anchor":"Whoops, couldn't find that line!"},"default_meta_description":"Genius breaks down text with line-by-line annotations, added and edited by anyone in the world. It's your interactive guide to human culture.","body_content_conflict_message":"This text has been changed by someone else. Copy your work to your clipboard and <a href='%{url}'>click here to reload</a>","time":{"formats":{"long":"%B %d, %Y %H:%M","default":"%a, %d %b %Y %H:%M:%S %z","short":"%d %b %H:%M"},"am":"am","pm":"pm"},"follow_message":{"user":"Follow %{name} to see their annotations and pyongs in your newsfeed","artist":"Follow %{name} to see their new songs, texts, and annotations in your newsfeed","song":"Follow %{name} to get notified of new annotations and comments","discussion":"Follow this discussion to get notified when there are new posts","group":"Following \u201c%{name}\u201d is the same as following all of its discussions"},"pressed_pyong_tooltip_text":"You pyonged this %{text_type} recently! You'll be able to pyong it again in a bit","annotation":{"present_tense":"annotate","present_participle":"annotating","plural_noun":"annotations","singular_present":"annotates","singular_noun":"annotation","community_brand_name":"Genius Annotation","past_tense":"annotated"},"manage_tags":{"delete_and_transfer_warning":"BEWARE! Do you really want to delete that tag, and transfer everything associated with it to this one??","just_delete_warning":"AHHH! Do you really want to just delete that tag (instead of choosing a replacement to transfer associated songs to)?","tag_transfer_finished":"Successfully transferred everything associated with <b>%{from_tag}</b> to <b>%{to_tag}</b> and deleted <b>%{from_tag}</b>."},"pyong_tooltip_text":"Promote this %{text_type} on your followers' homepages!","ability":{"not_enough_iq_to_annotate_locked_songs":"You need 600 IQ to add annotations to this page"},"date":{"month_names":[null,"January","February","March","April","May","June","July","August","September","October","November","December"],"formats":{"long":"%B %d, %Y","default":"%Y-%m-%d","short":"%b %d"},"abbr_month_names":[null,"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"abbr_day_names":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"order":["year","month","day"]},"datetime":{"prompts":{"day":"Day","minute":"Minute","month":"Month","second":"Seconds","year":"Year","hour":"Hour"},"distance_in_words":{"x_days":{"other":"%{count} days","one":"1 day"},"less_than_x_minutes":{"other":"less than %{count} minutes","one":"less than a minute"},"over_x_years":{"other":"%{count} years","one":"a year"},"about_x_months":{"other":"%{count} months","one":"a month"},"x_minutes":{"other":"%{count} minutes","one":"1 minute"},"almost_x_years":{"other":"%{count} years","one":"a year"},"x_months":{"other":"%{count} months","one":"1 month"},"less_than_x_seconds":{"other":"less than %{count} seconds","one":"less than 1 second"},"x_seconds":{"other":"%{count} seconds","one":"1 second"},"half_a_minute":"half a minute","about_x_hours":{"other":"%{count} hours","one":"an hour"},"about_x_years":{"other":"%{count} years","one":"a year"}}},"rock":{"collection_of_texts_name":"album","sle":{"overall_story":"An explanation of the song's overall story (example: \"In this song, Kurt breaks down a day at his grandparents' house\")","miscellaneous":"The song's instrumentation and sound","historical_context":"what album the song's on, how popular it was"},"song_track_number":"Track %{number} on %{album}","tagline":"Your guide to the world of rock, pop, indie, and more","example_featured_artists":"e.g. Paul Simon, Sting, Led Zeppelin","name_for_body_content":"lyrics","exclamation_upon_success":"Huzzah!","verified_artist_share_success":"Swag. Now share your explanation for even more hype!","artist_name":"artist","map":{"description_meta_tag":"The Rock Map is your guide to international Sex, Drugs and Rock & Roll. If you're looking for the Eagles' real Hotel California, or what 'Back Home' means to Eric Clapton \u2013 check out the Rock Map.","name":"The Rock Map","description":"Your Guide to International Sex, Drugs and Rock & Roll"},"edit_title_artists_album":"Edit title, artists, &amp; album","text_type":"song","example_producer_artists":"e.g. Justin Timberlake, Avicii, Mariah Carey"},"poetry":{"collection_of_texts_name":"work","sle":{"overall_story":"A summary of the work's overall themes (example: \"Here, Byron evokes the classic struggle between virtue and temptation...\")","miscellaneous":"A description of the work's overall style and tone","historical_context":"the work's place in history, how it was received"},"song_track_number":"From %{album}","tagline":"Discover the meaning of literature \u2013 your guide to the global canon","example_featured_artists":"e.g. Virginia Woolf, Abraham Lincoln, Lawrence Kasdan","name_for_body_content":"text","exclamation_upon_success":"Huzzah!","verified_artist_share_success":"Nice. Now share your explanation and feel the love!","artist_name":"author","edit_title_artists_album":"Edit title, author, &amp; work","text_type":"text","example_producer_artists":"e.g. Richmond Lattimore, The New Yorker, Christopher Nolan"},"can_can":{"access_denied":"Sorry, you're not allowed to do that"},"activerecord":{"models":{"forum_post":"Post","twitter_identity":"Twitter","annotation_edit":"Annotation Edit","facebook_identity":"Facebook","group":"Forum","edx_identity":"edX"},"errors":{"messages":{"not_a_number":"is not a number","less_than":"must be less than %{count}","taken":"has already been taken","record_invalid":"Validation failed: %{errors}","too_short":"is too short (minimum is %{count} characters)","empty":"can't be empty","less_than_or_equal_to":"must be less than or equal to %{count}","invalid":"is invalid","too_long":"is too long (maximum is %{count} characters)","odd":"must be odd","blank":"can't be blank","confirmation":"doesn't match confirmation","greater_than":"must be greater than %{count}","inclusion":"is not included in the list","even":"must be even","greater_than_or_equal_to":"must be greater than or equal to %{count}","equal_to":"must be equal to %{count}","wrong_length":"is the wrong length (should be %{count} characters)","accepted":"must be accepted","exclusion":"is reserved"},"template":{"header":{"other":"%{count} errors prohibited this %{model} from being saved","one":"1 error prohibited this %{model} from being saved"},"body":"There were problems with the following fields:"},"full_messages":{"format":"%{attribute} %{message}"}},"group":{"access_policy":{"human_description":{"role_based":"Private Forum accessible by certain roles (e.g. 'All Editors')","public":"Public Forum","invite_only":"Private invitation only Forum"}}}},"rap":{"collection_of_texts_name":"album","sle":{"overall_story":"An explanation of the overall story (e.g. \"In this song, Eminem corresponds with a crazed fan who...\")","miscellaneous":"The sample used for a beat.","historical_context":"Historical context."},"song_track_number":"Track %{number} on %{album}","tagline":"Discover the meaning of rap lyrics","example_featured_artists":"e.g. JAY Z, Lil Wayne, T.I.","name_for_body_content":"lyrics","exclamation_upon_success":"Ballin!","verified_artist_share_success":"Swag. Now share your explanation for even more hype!","artist_name":"artist","map":{"description_meta_tag":"The Rap Map guides you through the hip-hop terrain of the planet. If you're looking for JAY Z's birthplace or Lil Wayne's neighborhood\u2014check out the Rap Map.","name":"The Rap Map","description":"Mapping the Hip-Hop Terrain of the Planet"},"edit_title_artists_album":"Edit title, artists, &amp; album","text_type":"song","example_producer_artists":"e.g. J Dilla, No I.D., 9th Wonder, Just Blaze, Kanye West"},"comments":{"placeholder":{"verified_annotation":"Add a comment or show love","song":"Suggest an improvement or correction to earn %{iq}","annotation":"Use suggestions to add knowledge or correct mistakes"},"noun":{"verified_annotation":"comment","song":"suggestion","annotation":"suggestion"}},"users":{"identity":{"unlink":"Unlink","auto_syndicate":{"facebook":"Post annotations, upvotes, and songs you create to your timeline"},"unlinking":"Unlinking..."}},"support":{"array":{"words_connector":", ","two_words_connector":" and ","last_word_connector":", and "},"select":{"prompt":"Please select"}},"news":{"collection_of_texts_name":"work","sle":{"overall_story":"An explanation of the work's overall story (example: \"Here, President Obama confirms the legality of drone strikes...\")","miscellaneous":"The work's impact on current issues","historical_context":"how the event or text affects the world and history"},"song_track_number":"From %{album}","tagline":"Your guide to breaking news","example_featured_artists":"e.g. Steve Stoute, Bill Simmons, U.S. Congress","name_for_body_content":"text","exclamation_upon_success":"Huzzah!","verified_artist_share_success":"Nice. Now share your explanation and feel the love!","artist_name":"author","edit_title_artists_album":"Edit title, author, &amp; work","text_type":"text","example_producer_artists":"e.g. CNN, Grantland, Twitter"},"leaderboards":{"periods":{"all_time":"All-time","month":"Monthly","week":"Weekly"}}}};
+
+  var CURRENT_CHANNEL = "rap"
+  var CURRENT_TAG = "Rap Genius"
+
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var TRACKING_DATA = {"Primary Arist":"Macklemore and Ryan Lewis","Primary Album ID":22968,"Primary Artist ID":2525,"Song ID":90902,"Title":"A Wake","Primary Album":"The Heist"}
+//]]>
+</script>
+
+<link href="http://assets.rapgenius.com/stylesheets/compiled/screen-7f2c6a3eba004e5afac5095647074edd.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://assets.rapgenius.com/favicon.ico?1413325077" rel="shortcut icon" />
+
+
+  
+
+
+  
+    <meta property="og:url" content="http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics">
+  
+
+  
+    <meta property="og:type" content="music.song">
+  
+
+  
+    <meta property="og:image" content="http://s3.amazonaws.com/rapgenius/600px-The_Heist_Macklemore.jpeg">
+  
+    <meta property="og:image" content="http://s3.amazonaws.com/rapgenius/tumblr_mdd2om4hqv1ris2wko1_1280.jpg">
+  
+    <meta property="og:image" content="http://s3.amazonaws.com/rapgenius/Macklemore_Ryan.jpg">
+  
+    <meta property="og:image" content="http://s3.amazonaws.com/rapgenius/1376771625_evan3-200x300.jpg">
+  
+    <meta property="og:image" content="http://assets.rapgenius.com/images/rg_diamond_dark.png?1413312131">
+  
+
+  
+    <meta property="og:title" content="Macklemore and Ryan Lewis (Ft. Evan Roman &amp; Macklemore) – A Wake">
+  
+
+  
+    <meta property="og:description" content="User macdaddyj pointed out an interesting play on words in the title of this track, “A Wake”.
+
+Throughout the song, Macklemore emphasizes his spiritual “awakening” after a">
+  
+
+
+
+
+
+  <meta property="twitter:card" content="summary">
+
+  <meta property="twitter:image:src" content="http://s3.amazonaws.com/rapgenius/600px-The_Heist_Macklemore.jpeg">
+
+  <meta property="twitter:title" content="Macklemore and Ryan Lewis (Ft. Evan Roman &amp; Macklemore) – A Wake">
+
+  <meta property="twitter:description" content="User macdaddyj pointed out an interesting play on words in the title of this track, “A Wake”.
+
+Throughout the song, Macklemore emphasizes his spiritual “awakening” after a">
+
+  <meta property="twitter:site" content="@Genius">
+
+
+  <meta property="twitter:app:name:iphone" content="Genius">
+  <meta property="twitter:app:id:iphone" content="709482991">
+  <meta property="twitter:app:url:iphone" content="genius://songs/90902">
+
+<meta name="description" content="User macdaddyj pointed out an interesting play on words in the title of this track, “A Wake”.
+
+Throughout the song, Macklemore emphasizes his spiritual “awakening” after a" />
+
+  <script src="http://assets.rapgenius.com/javascripts/compiled/sprockets-aa74730f86a3d228afdf1e9009265ae5.js" type="text/javascript"></script>
+
+  
+    
+
+    <link href="http://assets.rapgenius.com/apple-touch-icon.png" rel="apple-touch-icon-precomposed" />
+
+    
+
+    <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+    <meta http-equiv="cleartype" content="on">
+  
+
+  
+  <link href="http://rap.genius.com/posts.atom" rel="alternate" title="ATOM" type="application/atom+xml" />
+  <META name="y_key" content="f63347d284f184b0">
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  
+  
+    _gaq.push(['_setAccount', 'UA-10346621-1']);
+    _gaq.push(['_trackPageview']); // this was causing duplicate pageviews (untill i killed jquery-address)
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+  
+</script>
+
+</head>
+<body class="act-show cont-songs">
+  
+  
+
+  
+
+  <div id="beefy_header" class="rap">
+  <div id="beefy_header_content">
+    
+    <div id="sub_header">
+      <div class="sub_header_content">
+        <div class="tag_links">
+            
+              <a href="http://rap.genius.com/" class="tag_link tappable">Rap</a>
+            
+              <a href="http://rock.genius.com/" class="tag_link tappable">Rock</a>
+            
+              <a href="http://lit.genius.com/" class="tag_link tappable">Lit</a>
+            
+              <a href="http://news.genius.com/" class="tag_link tappable">News</a>
+            
+              <a href="http://pop.genius.com/" class="tag_link tappable">Pop</a>
+            
+              <a href="http://r-b.genius.com/" class="tag_link tappable">R&B</a>
+            
+              <a href="http://history.genius.com/" class="tag_link tappable">History</a>
+            
+              <a href="http://sports.genius.com/" class="tag_link tappable">Sports</a>
+            
+              <a href="http://screen.genius.com/" class="tag_link tappable">Screen</a>
+            
+              <a href="http://law.genius.com/" class="tag_link tappable">Law</a>
+            
+              <a href="http://tech.genius.com/" class="tag_link tappable">Tech</a>
+            
+              <a href="http://x.genius.com/" class="tag_link tappable">X</a>
+            
+              <a href="http://meta.genius.com/" class="tag_link tappable">Meta</a>
+            
+        </div>
+        
+
+
+
+        
+  <div id="user_links" class="logged_out">
+    <div class="sign_up_sign_in_links">
+      <a href="/signup" class="facebox first_button" rel="nofollow">Sign Up</a>
+      <a href="/login" class="facebox last_button " rel="nofollow">Sign in</a>
+    </div>
+  </div>
+
+
+      </div>
+    </div>
+
+    <div id="primary_header">
+      
+      <a href="http://genius.com/" id="wordmark">Genius</a>
+      <div class="manage_content">
+        
+        
+        <form action="/search" class="global_search" method="get">
+  <input class="quick_search autocomplete search" data-url="/search/quick" id="q" name="q" placeholder="Search" type="text" />
+  <a href="#" class="submit_search">submit</a>
+</form>
+        <a href="/new" class="new_text primary_header_link">Create</a>
+        <a href="http://genius.com/rap-genius" class="forums_link primary_header_link">Forums</a>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+  
+
+  
+  
+
+  <div id='container' class="iscrollable">
+
+    <div id="main">
+      
+
+<div itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="song_header ">
+  <div class="overlay" style="background-image: url('http://s3.amazonaws.com/rapgenius/600px-The_Heist_Macklemore.jpeg')"></div>
+  <div class="song_header_and_overlay_wrapper">
+    <div class="song_header_container">
+      
+        <div class="meta_media">
+  
+  
+
+  
+  <div class="unified_player" data-media-type="youtube">
+    <span class="play_pause">Play</span>
+    <div class="progress_bar">
+      <div class="progress"></div>
+    </div>
+    <div class="progress_counter">00:00</div>
+    
+      <div class="audio_link">
+        <a href="http://www.youtube.com/watch?v=WAZ0kA-KvWg" class="youtube" target="_blank">Youtube</a>
+      </div>
+    
+  </div>
+
+
+  <a class="edit_media toggle_target" data-target=".edit_media_form" href="#" style="display: none" title="shortcut: shift+m">
+    <span class="hint_text">Edit</span>
+    <span class="empty_hint_text">Add audio or video</span>
+  </a>
+</div>
+
+        
+
+
+        <div class="meta_toggles">
+  <a class="edit_metadata toggle_target" data-target=".edit_metadata_form" href="#" style="display: none" title="shortcut: shift+t">Edit</a>
+  
+  <div class="album_title_and_track_number song_meta_item">
+    <a href="/albums/Macklemore-and-ryan-lewis/The-heist" class="toggle_target" data-hide-on-blur="true" data-hide-siblings="true" data-show-with-class="active" data-target=".expanded_meta .album_songs">
+      
+        Track 12 on The Heist
+      
+    </a>
+  </div>
+
+
+  
+    <p class="tags song_meta_item" itemprop="keywords">
+      <a href="http://rap.genius.com/" itemprop="genre">Rap Genius</a>
+    </p>
+  
+  <p class="contributors song_meta_item">
+    <a class="toggle_contribs toggle_target contributors_count" data-target=".expanded_meta .props" data-show-with-class="active" data-hide-on-blur="true" data-hide-siblings="true">Contributors</a>
+  </p>
+  
+  <div class="song_metadata"></div>
+</div>
+
+        
+
+      
+
+      <div class="song_info_primary">
+  <h1 class="title_and_authors">
+    <span class="text_title" itemprop="name">
+      A Wake
+    </span>
+    <span class="text_type">Lyrics</span>
+    
+    <br/>
+    <span class="text_artist" itemprop="author creator" itemscope itemtype="http://schema.org/Person" itemid="http://genius.com/artists/Macklemore-and-ryan-lewis">
+      <a href="/artists/Macklemore-and-ryan-lewis" itemprop="name" rel="author" tooltip="http://rap.genius.com/artists/2525/tooltip" tt-class="mention_tooltip artist_tooltip" tt-fixed="true" tt-hide-delay="300" tt-width="568">Macklemore and Ryan Lewis</a>
+    </span>
+  </h1>
+  
+    
+  <h2 class="non_primary_artists">
+    
+
+  <span class="featured_artists">
+    
+    
+    Ft: <a href="/artists/Evan-roman" tooltip="http://rap.genius.com/artists/25848/tooltip" tt-class="mention_tooltip artist_tooltip" tt-fixed="true" tt-hide-delay="300" tt-width="568">Evan Roman</a> & <a href="/artists/Macklemore" tooltip="http://rap.genius.com/artists/2026/tooltip" tt-class="mention_tooltip artist_tooltip" tt-fixed="true" tt-hide-delay="300" tt-width="568">Macklemore</a>
+  </span><br>
+
+
+    
+
+  <span class="producer_artists">
+    
+    
+    Produced By: <a href="/artists/Ryan-lewis" tooltip="http://rap.genius.com/artists/2025/tooltip" tt-class="mention_tooltip artist_tooltip" tt-fixed="true" tt-hide-delay="300" tt-width="568">Ryan Lewis</a>
+  </span><br>
+
+
+  </h2>
+
+
+    <h2 class="verified_annotation_info"></h2>
+    <h2 class="verified_lyrics_info"></h2>
+  
+</div>
+
+      
+
+    </div>
+    <meta itemprop="thumbnailUrl" content="http://s3.amazonaws.com/rapgenius/600px-The_Heist_Macklemore.jpeg">
+    <meta itemprop="image" content="http://s3.amazonaws.com/rapgenius/600px-The_Heist_Macklemore.jpeg">
+  </div>
+</div>
+
+
+  <div class="song_body">
+    <div class="song_actions">
+  <div class="pyong_action">
+   <a href="/songs/90902/pyong" class="pyong_button" rel="nofollow" tooltip="Promote this song on your followers' homepages!">PYONG!</a>
+
+<div class="pyong_button_helper">
+  <span class="pyongs_count" tooltip="/songs/90902/show_pyongers">
+    14
+  </span>
+</div>
+
+<form action="/songs/90902/add_note_to_pyong" data-finalize-url="/songs/90902/finalize_pyong" id="pyong_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="_method" type="hidden" value="put" /><input name="authenticity_token" type="hidden" value="agrlG7WUJdLr6nVjfFWpUXvIWoxhlYadDBv5g4+/uHw=" /></div>
+
+  <div class="add_pyong_note">
+    <div class="close cancel_pyong_note"></div>
+    <h3>You pyonged &#8220;Macklemore and Ryan Lewis – A Wake&#8221;</h3>
+    <textarea class="pyong_note autogrow" id="pyong_note" maxlength="250" name="pyong_note" placeholder="Add a note to explain why you pyonged it (optional)" tabindex="1"></textarea>
+    <a href="#" class="save_pyong_note disabled" rel="nofollow" tabindex="2">Publish Note</a>
+    <button class="cancel_pyong_note button" rel="nofollow" tabindex="3" type="reset">No Thanks</button>
+  </div>
+</form>
+  </div>
+  <div class="addthis_toolbox addthis_default_style share_icons" addthis:title="Macklemore and Ryan Lewis – A Wake" addthis:url="http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics">
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_twitter"></a>
+  </div>
+  
+
+<a class="toggle_sharable_options toggle_rg_tooltip toggle_embed" data-target=".share_wrapper[data-id='annotation_90902']">Embed</a>
+<div class="share_wrapper rg_tooltip" data-id="annotation_90902">
+  <div class="share">
+    <textarea class="addthis_code" style="display:none">
+      <div class="inactive addthis_toolbox addthis_default_style popup" addthis:title="Macklemore and Ryan Lewis – A Wake" addthis:url="http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics">
+        <h3 class="share_header">Share a link</h3>
+        <div class="social_share_buttons">
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:height="25"></a>
+          <a class="addthis_button_tweet"></a>
+          <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+        </div>
+        <div class="share_a_link">
+          
+            <input type="text" onclick="this.select()" readonly="true" value="http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics">
+            <a href="#" onclick="return false" class="copy_to_clipboard inactive" title="http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics">Copy</a>
+          
+        </div>
+        
+          <div class="embed_wrapper">
+            <h3 class="share_header">Embed this song on your site</h3>
+            <div>
+              <label for="light" class="share_embed_label">Light Background</label>
+              &lt;input class=&quot;embed_input&quot; id=&quot;&quot; name=&quot;&quot; onclick=&quot;this.select()&quot; readonly=&quot;readonly&quot; type=&quot;text&quot; value=&quot;&amp;lt;div id=&#39;rg_embed_link_90902&#39; class=&#39;rg_embed_link&#39;&amp;gt;Read &amp;lt;a href=&amp;quot;http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics&amp;quot;&amp;gt;&amp;#8220;A Wake&amp;#8221; by Macklemore and Ryan Lewis&amp;lt;/a&amp;gt; on Rap Genius&amp;lt;/div&amp;gt;&amp;lt;script src=&#39;//rap.genius.com/songs/90902/embed.js&#39;&amp;gt;&amp;lt;/script&amp;gt;&quot; /&gt;
+            </div>
+            <div>
+              <label for="dark" class="share_embed_label">Dark Background</label>
+              &lt;input class=&quot;embed_input&quot; id=&quot;&quot; name=&quot;&quot; onclick=&quot;this.select()&quot; readonly=&quot;readonly&quot; type=&quot;text&quot; value=&quot;&amp;lt;div id=&#39;rg_embed_link_90902&#39; class=&#39;rg_embed_link&#39;&amp;gt;Read &amp;lt;a href=&amp;quot;http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics&amp;quot;&amp;gt;&amp;#8220;A Wake&amp;#8221; by Macklemore and Ryan Lewis&amp;lt;/a&amp;gt; on Rap Genius&amp;lt;/div&amp;gt;&amp;lt;script src=&#39;//rap.genius.com/songs/90902/embed.js?dark=1&#39;&amp;gt;&amp;lt;/script&amp;gt;&quot; /&gt;
+            </div>
+          </div>
+        
+        <a href="#" class="close"></a>
+      </div>
+    </textarea>
+  </div>
+</div>
+
+  
+
+
+  
+  
+    <a href="/songs/90902/follows" class="toggle_follow button new_status_follow" rel="nofollow" tooltip="Follow A Wake to get notified of new annotations and comments">Follow</a>
+  
+
+
+  
+    <div id="editor_instructions">
+  
+
+  
+</div>
+
+    
+    
+
+
+
+  
+</div>
+
+    
+    <div class="lyrics_container">
+  <div class="lyrics" data-create-referent-path="/songs/90902/referents" data-annotate-path="/songs/90902/annotations" data-id="90902" data-update-path="/songs/90902/update_lyrics" data-pusher_channel="song-90902" itemprop="text">
+    
+  <p><a href="/2111207/Macklemore-and-ryan-lewis-a-wake/Intro-evan-roman" data-id="2111207" class="has_comments" data-editorial-state="accepted" data-classification="accepted">[Intro: Evan Roman]</a><br>
+<a href="/1128799/Macklemore-and-ryan-lewis-a-wake/I-need-love-you-need-love-give-me-love-and-ill-give-you-my-love" data-id="1128799" data-editorial-state="accepted" data-classification="accepted">I need love<br>
+You need love<br>
+Give me love<br>
+And I'll give you my love</a><br>
+<br>
+[Verse 1: Macklemore]<br>
+<a href="/1115094/Macklemore-and-ryan-lewis-a-wake/They-say-thirty-is-the-new-twenty" data-id="1115094" data-editorial-state="accepted" data-classification="accepted">They say thirty is the new twenty</a><br>
+<a href="/1129518/Macklemore-and-ryan-lewis-a-wake/And-twenty-is-the-new-thirty-shit-i-guess" data-id="1129518" data-editorial-state="accepted" data-classification="accepted">And twenty is the new thirty shit I guess</a><br>
+<a href="/1115099/Macklemore-and-ryan-lewis-a-wake/Makes-sense-cause-fifteen-year-olds-seem-twenty-and-twenty-five-year-olds-seem-ten" data-id="1115099" data-editorial-state="accepted" data-classification="accepted">Makes sense, cause fifteen year olds seem twenty<br>
+And twenty five year olds seem ten</a><br>
+<a href="/1122255/Macklemore-and-ryan-lewis-a-wake/I-used-to-drink-away-my-paycheck" data-id="1122255" data-editorial-state="accepted" data-classification="accepted">I used to drink away my paycheck</a><br>
+<a href="/1128793/Macklemore-and-ryan-lewis-a-wake/Celebrate-the-mistakes-i-hadnt-made-yet" data-id="1128793" data-editorial-state="accepted" data-classification="accepted">Celebrate the mistakes I hadn't made yet</a><br>
+<a href="/1115109/Macklemore-and-ryan-lewis-a-wake/Our-generation-isnt-the-best-on-safe-sex-we-forget-the-latex-becoming-planned-parenthood-patients" data-id="1115109" data-editorial-state="accepted" data-classification="accepted">Our generation isn't the best on safe sex<br>
+We forget the latex, becoming Planned Parenthood patients</a><br>
+<a href="/1115103/Macklemore-and-ryan-lewis-a-wake/Synthetic-heroin" data-id="1115103" data-editorial-state="accepted" data-classification="accepted">Synthetic heroin</a> <a href="/1134093/Macklemore-and-ryan-lewis-a-wake/Is-the-new-basehead" data-id="1134093" data-editorial-state="accepted" data-classification="accepted">is the new basehead</a><br>
+<a href="/1111107/Macklemore-and-ryan-lewis-a-wake/So-much-to-escape-fuck-a-straight-edge" data-id="1111107" data-editorial-state="accepted" data-classification="accepted">So much to escape, fuck a straight edge</a><br>
+<a href="/1128801/Macklemore-and-ryan-lewis-a-wake/Walk-around-looking-through-a-fake-lens" data-id="1128801" data-editorial-state="accepted" data-classification="accepted">Walk around looking through a fake lens</a><br>
+<a href="/1114123/Macklemore-and-ryan-lewis-a-wake/Apps-this-good-whos-got-time-to-make-friends" data-id="1114123" data-editorial-state="accepted" data-classification="accepted">Apps this good, who's got time to make friends?</a><br>
+<a href="/1128803/Macklemore-and-ryan-lewis-a-wake/I-wish-i-didnt-care" data-id="1128803" data-editorial-state="accepted" data-classification="accepted">I wish I didn't care</a><br>
+<a href="/1197350/Macklemore-and-ryan-lewis-a-wake/If-cynical-hispters-with-long-hair-and-cocaine-problems-like-my-music" data-id="1197350" class="has_comments" data-editorial-state="accepted" data-classification="accepted">If cynical hispters with long hair<br>
+And cocaine problems, like my music</a><br>
+<a href="/1128834/Macklemore-and-ryan-lewis-a-wake/Its-not-my-issue-i-cant-solve-it" data-id="1128834" data-editorial-state="accepted" data-classification="accepted">It's not my issue, I can't solve it</a><br>
+<br>
+[Hook: Evan Roman]<br>
+<a href="/1127809/Macklemore-and-ryan-lewis-a-wake/My-flight-has-finally-landed-down-and-the-ground-has-stopped-moving-all-around" data-id="1127809" data-editorial-state="accepted" data-classification="accepted">My flight has finally landed down<br>
+And the ground has stopped moving all around</a><br>
+<a href="/1127813/Macklemore-and-ryan-lewis-a-wake/Eyes-open-awake-for-the-very-first-time" data-id="1127813" data-editorial-state="accepted" data-classification="accepted">Eyes open, awake for the very first time</a><br>
+<a href="/1128830/Macklemore-and-ryan-lewis-a-wake/We-both-forfeit-this-game-of-crime" data-id="1128830" data-editorial-state="accepted" data-classification="accepted">We both forfeit this game of crime</a><br>
+<br>
+[Verse 2: Macklemore]<br>
+<a href="/1126713/Macklemore-and-ryan-lewis-a-wake/They-say-its-so-refreshing-to-hear-somebody-on-records-no-guns-no-drugs-no-sex-just-truth-the-guns-thats-america-the-drugs-are-what-they-gave-to-us-and-sex-sells-itself-dont-judge-til-its-you" data-id="1126713" data-editorial-state="accepted" data-classification="accepted">They say, "It's so refreshing to hear somebody on records<br>
+No guns, no drugs, no sex, just truth"<br>
+The guns that's America, the drugs are what they gave to us<br>
+And sex sells itself, don't judge 'til it's you</a><br>
+<a href="/1197439/Macklemore-and-ryan-lewis-a-wake/Ah-im-not-more-or-less-conscious-than-rappers-rapping-bout-them-strippers-up-on-a-pole-popping" data-id="1197439" data-editorial-state="accepted" data-classification="accepted">Ah, I'm not more or less conscious<br>
+Than rappers rapping 'bout them strippers up on a pole, popping</a><br>
+<a href="/1122263/Macklemore-and-ryan-lewis-a-wake/These-interviews-are-obnoxious-saying-that-its-poetry-youre-so-well-spoken-stop-it" data-id="1122263" data-editorial-state="accepted" data-classification="accepted">These interviews are obnoxious<br>
+Saying that "It’s poetry, you’re so well spoken," stop it</a><br>
+<a href="/1128853/Macklemore-and-ryan-lewis-a-wake/I-grew-up-during-reaganomics" data-id="1128853" data-editorial-state="accepted" data-classification="accepted">I grew up during Reaganomics</a><br>
+<a href="/1128867/Macklemore-and-ryan-lewis-a-wake/When-ice-t-was-out-there-on-his-killing-cops-shit" data-id="1128867" data-editorial-state="accepted" data-classification="accepted">When Ice T was out there on his killing cops shit</a><br>
+<a href="/1115130/Macklemore-and-ryan-lewis-a-wake/Or-rodney-king-was-getting-beat-on-and-they-let-off-every-single-officer-and-los-angeles-went-and-lost-it" data-id="1115130" class="has_comments" data-editorial-state="accepted" data-classification="accepted">Or Rodney King was getting beat on<br>
+And they let off every single officer<br>
+And Los Angeles went and lost it</a><br>
+<a href="/1115132/Macklemore-and-ryan-lewis-a-wake/Now-every-month-theres-a-new-rodney-on-youtube-its-just-something-our-generation-is-used-to" data-id="1115132" data-editorial-state="accepted" data-classification="accepted">Now every month there's a new Rodney on Youtube<br>
+It's just something our generation is used to</a><br>
+<a href="/1197475/Macklemore-and-ryan-lewis-a-wake/And-neighbourhoods-where-you-never-see-a-news-crew" data-id="1197475" data-editorial-state="accepted" data-classification="accepted">And neighbourhoods where you never see a news crew</a><br>
+<a href="/1197480/Macklemore-and-ryan-lewis-a-wake/Unless-theyre-gentrifying-white-people-dont-even-cruise-through" data-id="1197480" data-editorial-state="accepted" data-classification="accepted">Unless they're gentrifying, white people don't even cruise through</a><br>
+<a href="/1115137/Macklemore-and-ryan-lewis-a-wake/And-my-subconscious-telling-me-stop-it-this-is-an-issue-that-you-shouldnt-get-involved-in" data-id="1115137" data-editorial-state="accepted" data-classification="accepted">And my subconscious telling me stop it<br>
+This is an issue that you shouldn't get involved in</a><br>
+<a href="/1114129/Macklemore-and-ryan-lewis-a-wake/Dont-even-tweet-rip-trayvon-martin-dont-wanna-be-that-white-dude-million-man-marching" data-id="1114129" class="has_comments" data-editorial-state="accepted" data-classification="accepted">Don't even tweet "R.I.P Trayvon Martin"<br>
+Don't wanna be that white dude million-man marching</a><br>
+<a href="/1120595/Macklemore-and-ryan-lewis-a-wake/Fighting-for-a-freedom-that-my-people-stole-dont-wanna-make-all-my-white-fans-uncomfortable-but-you-dont-even-have-a-fuckin-song-for-radio-why-you-out-here-talking-race-trying-to-save-the-fucking-globe-dont-get-involved-if-the-cause-isnt-mine-white-privilege-white-guilt-at-the-same-damn-time" data-id="1120595" data-editorial-state="accepted" data-classification="accepted">Fighting for a freedom that my people stole<br>
+Don't wanna make all my white fans uncomfortable<br>
+"But you don't even have a fuckin' song for radio<br>
+Why you out here talking race, trying to save the fucking globe?"<br>
+Don't get involved if the cause isn't mine<br>
+White privilege, white guilt, at the same damn time</a><br>
+<a href="/1115141/Macklemore-and-ryan-lewis-a-wake/So-we-just-party-like-its-1999" data-id="1115141" data-editorial-state="accepted" data-classification="accepted">So we just party like it's 1999</a><br>
+<a href="/1128813/Macklemore-and-ryan-lewis-a-wake/Celebrate-the-ignorance-while-these-kids-keep-dying" data-id="1128813" class="has_comments" data-editorial-state="accepted" data-classification="accepted">Celebrate the ignorance while these kids keep dying</a><br>
+<br>
+[Hook + Outro]</p>
+
+
+
+
+  </div>
+  <div class="decorators"></div>
+</div>
+
+    <div class="song_sidebar">
+  <div id="expanded_meta" class="expanded_meta">
+  
+  <div class="sidebar_unit description embedly">
+  
+
+<div class="annotation_container current_user_is_anonymous" data-id="3842699" data-ios-deep-link="genius://referents/3842699">
+  <div class="explain_as_message" style="display: none">
+    Caution: You are now annotating this song as <strong></strong>
+  </div>
+
+  
+  
+  
+  
+  
+  
+
+
+  
+  <div class="annotation_unit not_verified community comments_present song_description accepted taking_awhile" data-id="3842699">
+  
+    <div class="create_song_description_instructions">
+      <div class="song_description_instructions">
+  <h3>Edit the description to add:</h3>
+  <ul>
+    <li>Historical context: Historical context.</li>
+    <li>An explanation of the overall story (e.g. "In this song, Eminem corresponds with a crazed fan who...")</li>
+    <li>The sample used for a beat.</li>
+  </ul>
+</div>
+
+    </div>
+  
+  <ul class="cosign_messages">
+    
+  </ul>
+  
+  
+
+  <div class="annotation_unit_label">
+  <span class="highlight"><a class="show_credits " data-target=".full_credits[data-id=3842699]">Description</a></span>
+  by <a href="http://genius.com/SR_thePangloss" class="community_contributor" data-id="SR_thePangloss" tooltip="/users/148650/tooltip" tt-class="mention_tooltip" tt-fixed="true" tt-width="468">SR_thePangloss</a> & <a href="http://genius.com/Coldkick" class="community_contributor" data-id="Coldkick" tooltip="/users/110991/tooltip" tt-class="mention_tooltip" tt-fixed="true" tt-width="468">Coldkick</a>. <a class="show_credits " data-target=".full_credits[data-id=3842699]"> more</a>
+</div>
+
+
+<div class="user_info">
+  
+    <ul class="full_credits loading" data-id="3842699">
+      <div class="full_credits_placeholder">
+        <li>Loading...</li>
+      </div>
+    </ul>
+  
+</div>
+
+
+  
+
+  
+
+<div class="annotation_body embedly embedly_pro" data-embedly-width="450" data-id="3842699" data-video_id="">
+  <div class="body_text" itemprop="description">
+    <p>User <a href="http://genius.com/macdaddyj">macdaddyj</a> pointed out an interesting play on words in the title of this track, “A Wake”.</p>
+
+<p>Throughout the song, Macklemore emphasizes his spiritual “awakening” after a difficult time with drugs and alcohol in his own life. Now that he is “awake” to his own and others' foolishness, he is ending his old ways and finally putting his old life to death. This song represents the mourning of his past life, or in other words, a “wake”</p>
+  </div>
+
+  
+
+  
+
+  <p class="video_processing_message">
+    This video is processing – it'll appear automatically when it's done.
+  </p>
+
+</div>
+
+<textarea class="markdown_version">User [macdaddyj](http://rapgenius.com/macdaddyj) pointed out an interesting play on words in the title of this track, "A Wake". 
+
+Throughout the song, Macklemore emphasizes his spiritual "awakening" after a difficult time with drugs and alcohol in his own life. Now that he is "awake" to his own and others' foolishness, he is ending his old ways and finally putting his old life to death. This song represents the mourning of his past life, or in other words, a "wake"</textarea>
+
+  
+  <a href="/signup_or_login" class="add_non_verified_explanation facebox">Someone needs help understanding this!<br>
+                                        Annotate it to boost your IQ</a>
+      
+  
+
+  
+  
+  
+  
+  <div class="footer">
+  <div class="action_links">
+    
+      <div class="voting_links">
+  
+
+  <a tooltip="<center>This is a good annotation</center>" tt-width="275" rel="nofollow" href="/votes?id=3842699&amp;voteable=Annotation" data-direction="up" class="Annotation vote up ">
+  </a>
+
+  <span class="votes_total no_votes"  tt-hide-delay=500 tt-width="284" tt-fixed="true">+0</span>
+  
+  <a tooltip="<center>This is a bad annotation – it should be deleted</center>" tt-width="275" href="/votes?id=3842699&amp;voteable=Annotation" data-direction="down" rel="nofollow" class="Annotation vote down ">
+  </a>
+</div>
+    
+  </div>
+  
+  <div class="community_links">
+    
+
+<a class="toggle_sharable_options toggle_rg_tooltip toggle_share" data-target=".share_wrapper[data-id='annotation_3842699']">Share</a>
+<div class="share_wrapper rg_tooltip" data-id="annotation_3842699">
+  <div class="share">
+    <textarea class="addthis_code" style="display:none">
+      <div class="inactive addthis_toolbox addthis_default_style popup" addthis:title="“Macklemore and Ryan Lewis (Ft. Evan Roman &amp; Macklemore) – A Wake” @RapGenius" addthis:url="http://rap.genius.com/3842699">
+        <h3 class="share_header">Share a link</h3>
+        <div class="social_share_buttons">
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:height="25"></a>
+          <a class="addthis_button_tweet"></a>
+          <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+        </div>
+        <div class="share_a_link">
+          
+            <input type="text" onclick="this.select()" readonly="true" value="http://rap.genius.com/3842699">
+            <a href="#" onclick="return false" class="copy_to_clipboard inactive" title="http://rap.genius.com/3842699">Copy</a>
+          
+        </div>
+        
+          <div class="embed_wrapper">
+            <h3 class="share_header">Embed this annotation on your site</h3>
+            <div>
+              <label for="light" class="share_embed_label">Light Background</label>
+              &lt;input class=&quot;embed_input&quot; id=&quot;light&quot; name=&quot;light&quot; onclick=&quot;this.select()&quot; readonly=&quot;readonly&quot; type=&quot;text&quot; value=&quot;&amp;lt;blockquote class=&#39;rg_standalone_container&#39; data-src=&#39;//rap.genius.com/annotations/3842699/standalone_embed&#39;&amp;gt;&amp;lt;a href=&#39;http://rap.genius.com/3842699/Macklemore-and-ryan-lewis-a-wake/Macklemore-and-ryan-lewis-ft-evan-roman-and-macklemore-a-wake&#39;&amp;gt;Macklemore and Ryan Lewis (Ft. Evan Roman &amp;amp; Macklemore) – A Wake&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;a href=&#39;http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics&#39;&amp;gt;&amp;#8213; &amp;#8220;A Wake&amp;#8221; by Macklemore and Ryan Lewis&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;script async src=&#39;//rap.genius.com/annotations/load_standalone_embeds.js&#39;&amp;gt;&amp;lt;/script&amp;gt;&quot; /&gt;
+            </div>
+            <div>
+              <label for="dark" class="share_embed_label">Dark Background</label>
+              &lt;input class=&quot;embed_input&quot; id=&quot;dark&quot; name=&quot;dark&quot; onclick=&quot;this.select()&quot; readonly=&quot;readonly&quot; type=&quot;text&quot; value=&quot;&amp;lt;blockquote class=&#39;rg_standalone_container&#39; data-src=&#39;//rap.genius.com/annotations/3842699/standalone_embed?dark=1&#39;&amp;gt;&amp;lt;a href=&#39;http://rap.genius.com/3842699/Macklemore-and-ryan-lewis-a-wake/Macklemore-and-ryan-lewis-ft-evan-roman-and-macklemore-a-wake&#39;&amp;gt;Macklemore and Ryan Lewis (Ft. Evan Roman &amp;amp; Macklemore) – A Wake&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;a href=&#39;http://rap.genius.com/Macklemore-and-ryan-lewis-a-wake-lyrics&#39;&amp;gt;&amp;#8213; &amp;#8220;A Wake&amp;#8221; by Macklemore and Ryan Lewis&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;script async src=&#39;//rap.genius.com/annotations/load_standalone_embeds.js&#39;&amp;gt;&amp;lt;/script&amp;gt;&quot; /&gt;
+            </div>
+          </div>
+        
+        <a href="#" class="close"></a>
+      </div>
+    </textarea>
+  </div>
+</div>
+
+    
+    
+    <a href="#" class="toggle_target earn_iq " data-target=".comments_for_3842699" data-focus="">
+      Suggestions (1)
+    </a>
+  </div>
+</div>
+  <div class="annotation comment_section collapsed comments_for_3842699">
+  
+    
+      <div class="comment_section_label">
+        Suggestions
+      </div>
+      <div class="comment_container">
+        
+
+<div class="comment_unit comment_2376230 annotation pending" data-comment-for="3842699">
+  
+    
+  
+    
+  
+    
+  
+  
+  
+  
+  <div class="comment">
+    <div class="header">
+      <div class="name">
+        
+
+
+<div class="user_badge " data-badge-user-id="294149">  
+  <a class="badge_avatar_wrapper" href="/SinnersMind" tt-width='468' tt-fixed='true' tooltip='/users/294149/tooltip' data-id='SinnersMind' tt-class='mention_tooltip'>
+    <img alt="SinnersMind's photo" class="user_avatar_294149 avatar small" src="http://s3.amazonaws.com/rapgenius/avatars/small/8SicJujSRSFegRYMOtCx.jpg" />
+  </a>
+
+	<div class="user_details">
+    <a href="http://genius.com/SinnersMind" class="login" tt-width='468' tt-fixed='true' tooltip='/users/294149/tooltip' data-id='SinnersMind' tt-class='mention_tooltip'>SinnersMind</a>
+    <div class="checky"></div>
+    
+    <p class="iq">
+      <a href="/SinnersMind" class="iq_value">215</a>
+    </p>
+	  
+	  
+	</div>
+</div>
+
+      </div>
+      
+        <div class="created_at" data-timeago="2014-09-11T20:21:20Z">September 11th, 2014</div>
+      
+    </div>
+  
+    <div class="body embedly" data-embedly-width="400"><p>The title “A Wake” can also be referencing to the last line of the second verse, “Celebrate the ignorance while these kids keep dying.” Therefore, this song can represent a “wake” for not only his past life which was tainted by substance abuse, but also for all of the lives of African Americans lost due to racism and prejudice.</p></div>
+    <textarea class="comment_markdown_version">The title "A Wake" can also be referencing to the last line of the second verse, "Celebrate the ignorance while these kids keep dying." Therefore, this song can represent a "wake" for not only his past life which was tainted by substance abuse, but also for all of the lives of African Americans lost due to racism and prejudice.</textarea>
+  
+  </div>
+  
+  <div class="comment_footer">
+    <div class="voting_container">
+      <div class="voting_links">
+  
+
+  <a tooltip="<center>This is a good suggestion - it should be incorporated into the annotation</center>" tt-width="275" rel="nofollow" href="/votes?id=2376230&amp;voteable=Comment" data-direction="up" class="Comment vote up ">
+  </a>
+
+  <span class="votes_total no_votes"  tt-hide-delay=500 tt-width="284" tt-fixed="true">+0</span>
+  
+  <a tooltip="<center>This is a bad suggestion – it should be deleted</center>" tt-width="275" href="/votes?id=2376230&amp;voteable=Comment" data-direction="down" rel="nofollow" class="Comment vote down ">
+  </a>
+</div>
+    </div>
+  
+    
+      
+      
+      
+    
+  </div>
+</div>
+
+      </div>
+    
+  
+  
+  
+
+<form action="/comments" class="annotation comment condensed add_comment_form" id="" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="agrlG7WUJdLr6nVjfFWpUXvIWoxhlYadDBv5g4+/uHw=" /></div>
+  <input id="" name="comment[commentable_id]" type="hidden" value="3842699" />
+  <input id="" name="comment[commentable_type]" type="hidden" value="Annotation" />
+  <p class="comment_form_label">Add a suggestion</p>
+  
+    <div class="form_textfield_wrapper">
+  	 <input class="required" id="" name="comment[name]" placeholder="Your name" size="30" title="Enter your name" type="text" />
+    </div>
+    <div class="form_textfield_wrapper password">    
+  	 <input class="required email" id="" name="comment[email]" placeholder="Your email address" size="30" title="Enter your email address" type="text" />
+    </div>
+	
+  <div class="form_textarea_wrapper">
+  	<textarea class="required autogrow" cols="40" id="" name="comment[body]" placeholder="Use suggestions to add knowledge or correct mistakes" rows="4" title="Enter your suggestion"></textarea>
+  </div>
+  <input class="website" id="" name="comment[website]" size="30" title="Enter your suggestion" type="text" />
+  <div class="comment_submit_links">
+  	<input class="button" id="" name="commit" style="margin-left: .1em;" type="submit" value="Post suggestion" />
+  	
+    	<small class="info">
+    	  <span class="first">Have an account? <a href="/login" class="sign_in facebox">Sign in</a> first</span><span class="bar"> | </span>
+    	  <span class="last"><a href="/static/formatting_help" class="facebox" target="_blank">How to add links/pics etc</a></span>
+    	</small>
+    
+  </div>
+</form>
+
+</div>
+
+
+</div>
+
+
+  
+</div>
+
+</div>
+
+  <div class="sidebar_unit props">
+  <p class="metadata_element annotation_count">
+    34 annotations
+  </p>
+  
+  
+
+  
+
+  
+    <div class="lyrics_transcribers auto_load_url" data-url="/songs/90902/lyrics_transcribers"></div>
+  
+  <div class="scholars auto_load_url" data-url="/songs/90902/props"></div>
+  
+    <div class="activity">
+      <div class="title recent_activity">Recent Activity</div>
+      <div class="auto_load_url" data-url="/songs/90902/activity_stream?no_pagination=true&per_page=5"></div>
+      <a href="/songs/90902/activity_stream" class="show_song_activity button facebox" rel="facebox[.activity_stream] nofollow">Show all activity</a>
+    </div>
+  
+</div>
+
+  
+  <div class="sidebar_unit album_songs">
+    <div class="auto_load_url" data-url="/albums/22968/album_songs"></div>
+  </div>
+
+
+</div>
+
+  <div id="annotations"></div>
+</div>
+
+    <div class="song_footer">
+  <div class="song comment_section auto_load_url" data-url="/songs/90902/comments"></div>
+  
+    <div class="collections_wrapper recommended_song_list">
+      <div class="collection">
+  <a href="http://genius.com/albums/Macklemore-and-ryan-lewis/The-heist" class="collection_title music" title="The Heist">
+    Appears on
+    <span>The Heist</span>
+  </a>
+
+  <ul class="collection_list secondary_list">
+    
+      <li><a href="http://rap.genius.com/Macklemore-and-ryan-lewis-wing-lyrics" class="previous_track song_link" title="Wing$">11. Wing$</a></li>
+    
+
+    <li>
+      <span class="current_track">12. A Wake</span>
+    </li>
+
+    
+      <li><a href="http://rap.genius.com/Macklemore-and-ryan-lewis-gold-lyrics" class="next_track song_link" title="Gold">13. Gold</a></li>
+    
+  </ul>
+</div>
+
+      <a href="#" class="toggle_target" data-target=".collection:not(:first)" data-show-with-class="show">Appears on 0 more</a>
+    </div>
+  
+  
+
+
+  <div class="related_songs recommended_song_list">
+    <p class="related_songs_header">You might also enjoy</p>
+    <ul class="song_list secondary_list">
+      
+        <li>
+          
+<a href="http://rap.genius.com/Rich-gang-lifestyle-lyrics" class=" song_link" title="Lifestyle by&nbsp;Rich&nbsp;Gang">
+  <span class="title_with_artists"><span class='song_title'>Lifestyle</span> <span class='separator'>by&nbsp;</span><span class='artist_name'>Rich&nbsp;Gang</span></span>
+  
+  
+
+  
+
+  </a>
+        </li>
+      
+        <li>
+          
+<a href="http://rap.genius.com/Eminem-guts-over-fear-lyrics" class=" song_link" title="Guts Over Fear by&nbsp;Eminem">
+  <span class="title_with_artists"><span class='song_title'>Guts Over Fear</span> <span class='separator'>by&nbsp;</span><span class='artist_name'>Eminem</span></span>
+  
+  
+
+  
+
+  </a>
+        </li>
+      
+        <li>
+          
+<a href="http://r-b.genius.com/Partynextdoor-recognize-lyrics" class=" song_link" title="Recognize by&nbsp;PARTYNEXTDOOR">
+  <span class="title_with_artists"><span class='song_title'>Recognize</span> <span class='separator'>by&nbsp;</span><span class='artist_name'>PARTYNEXTDOOR</span></span>
+  
+  
+
+  
+
+  </a>
+        </li>
+      
+        <li>
+          
+<a href="http://rap.genius.com/Nicki-minaj-anaconda-lyrics" class=" song_link" title="Anaconda by&nbsp;Nicki&nbsp;Minaj">
+  <span class="title_with_artists"><span class='song_title'>Anaconda</span> <span class='separator'>by&nbsp;</span><span class='artist_name'>Nicki&nbsp;Minaj</span></span>
+  
+  
+
+  
+
+  </a>
+        </li>
+      
+    </ul>
+  </div>
+
+</div>
+
+  </div>
+
+  
+  <script type="text/template" id="annotation_prompt_template">
+  <div id='annotation_prompt' class='annotation_container has_verified_annotation no_regular_annotation'>
+    
+      <div class='annotation_unit not_verified community needs_exegesis accepted'>
+        <a class='add_non_verified_explanation logged_in'><span class="button_text">Start the Genius Annotation!</span></a>
+      </div>
+    
+  </div>
+</script>
+
+  <script type="text/template" id="image_annotation_prompt_template">
+  <div id='annotation_prompt' class='image_annotation_prompt'>
+    annotate
+  </div>
+</script>
+
+</div>
+
+
+<div class="song_updated_by_human_at" style="display: none">1410427248</div>
+<div class="lyrics_updated_at" style="display: none">1401079799</div>
+<div id="latest_song_lyrics" style="display: none;"></div>
+
+  <div class="unified_player" data-media-type="youtube">
+    <span class="play_pause">Play</span>
+    <div class="progress_bar">
+      <div class="progress"></div>
+    </div>
+    <div class="progress_counter">00:00</div>
+    
+      <div class="audio_link">
+        <a href="http://www.youtube.com/watch?v=WAZ0kA-KvWg" class="youtube" target="_blank">Youtube</a>
+      </div>
+    
+  </div>
+
+
+
+  <div id="unified_player_media" data-media-type="youtube" data-media-start="0">
+    
+      <div class="media_placeholder" data-src="http://www.youtube.com/watch?v=WAZ0kA-KvWg"></div>
+    
+  </div>
+
+
+
+      
+    </div>
+  </div>
+  <div id="footer">
+    <div id="edit_annotation_form">
+  <div class='edit_annotation_form'>
+  
+  <a class="toggle_lyric_editor toggle_target" data-relative=true data-target="~ .lyric_editor" data-focus=".lyric_text:visible">Correct this Line</a>
+  <button class="record_video video_controls ">Record a Video Annotation </button>
+  <a class="toggle_video_id toggle_target" data-relative=true data-target="~ .video_id_container">Edit Video Id</a>
+  
+  <textarea class="lyric_text lyric_editor" rows=2 cols=20 tabindex="1" placeholder="Correct the lyrics"></textarea>
+
+  <div class="video_recorder_container"></div>
+<div class="video_id_container">
+  <input class="video_id" tabindex="6" placeholder="Video ID"></input>
+</div>
+  
+  <textarea class="annotation_text activate_on_change autogrow" required="required" tabindex="2" placeholder="Write an Annotation"></textarea>      
+  <a class="image_adder edit_annotation_option">Add an Image</a>
+  <a class="formatting_help_button edit_annotation_option toggle_target" data-target="~ .explanation_instructions.not_verified" data-relative=true>Formatting Help</a>
+  <a class="verified_help_button edit_annotation_option toggle_target" data-target="~ .explanation_instructions.verified_artist" data-relative=true>Help Writing Verified Annotations</a></br>
+  
+  <textarea class="edit_annotation_note" tabindex="3" maxlength="250" placeholder ="Briefly describe your edit"></textarea>
+  <button class="submit_annotation" tabindex="4">Save <small>(shift+enter)</small></button>
+  <button class="cancel_annotation" tabindex="7">cancel</button>
+  
+  <div class="verified_artist explanation_instructions">
+  <h3>Share something <em>only you</em> could tell us about this line.</h3>
+  <p>For example:</p>
+  <ul>
+    <li>A behind the scenes story or a personal anecdote</li>
+    <li>Set the record straight about an ambiguous or misunderstood reference</li>
+  </ul>
+  <h4>Style Help</h4>
+  <ul>
+    <li>
+      <p>Add an image, video, or tweet by pasting in the URL:</p>
+      <pre>http://genius.com/logo.png</pre>
+    </li>
+    <li><p>Add a link like this:</p>
+      <pre>
+  [Check out my fave website](http://genius.com)</pre>
+      <p></p>
+    </li>
+  </ul>
+
+  <em>
+  <a href='#' class='formatting_help_toggle'>
+    <span class='unexpanded'>Click here for more formatting help (lists, blockquotes, etc)</span>
+    <span class='expanded'>Hide formatting help</span>
+  </a>
+</em>
+
+
+  <div class="extended_explanation_instructions" style="display:none">
+    <ul>
+      <li><p>To add a video, just insert the link (youtube, vimeo, etc).</p></li>
+      <li><p>Formatting:
+          <pre>*This text is in italics*
+**This text is bold**</pre></p>
+        </li>
+        <li><p>Links:</p>
+          <pre>[Genius](http://genius.com) is my favorite site, [Kanye West's "Power"](http://genius.com/kanye-west-power-lyrics) is my favorite song and [From whippin' the bacon rolls to outside whippin' the bacon Rolls](1256) is my favorite line.</pre>
+<p><pre class="inline_pre">[[Kanye West]]</pre> auto-links his artist page.</p>
+<p><pre class="inline_pre">[[Scarface "My Block"]]</pre> auto-links to the song.</p>
+        </li>
+
+        <li><p>Block quotes:</p>
+
+        <pre>In ["Juicy"](/The-notorious-big-juicy-lyrics), Biggie says:
+> It was all a dream
+I used to read Word Up magazine
+Salt'n'Pepa and Heavy D up in the limousine</pre></li>
+    <li><p>Numbered lists:</p>
+
+        <pre>The Best Rappers:
+1. Cam'ron
+2. Juelz Santana
+3. Lil Wayne</pre></li>
+        <li><p>Bulleted lists:</p>
+
+        <pre>Words for gun:
+- Gat
+- Glock
+- Nina</pre></li>
+        <li><p>Text size:
+          <pre># Largest
+## Large
+### ...
+###### - Normal size</pre></p>
+        </li>
+        </ul>
+    </ul>
+  </div>
+</div>
+  <div class="explanation_instructions not_verified">
+  <h3 class="explanation_only">Style Guidelines:</h3>
+  <h3 class="popup_only">Formatting Help:</h3>
+  <ul>
+
+    <li class="explanation_only nerdspeak">Before annotating, ask yourself: <a href="/837333">is this interesting?</a> <a href="/837268">Does this add anything to the line?</a></li>
+    <li>
+      <p>Add an image, video, or tweet by pasting in the URL:</p>
+      <pre>http://genius.com/logo.png</pre>
+    </li>
+    <li><p>Add a link like this:</p>
+      <pre>
+[Check out my fave website](http://genius.com)
+</pre>
+    </li>
+    <li><p>Simple formatting:
+      <pre>
+*This text is in italics*
+**This text is bold**
+</pre></p>
+    </li>
+  </ul>
+  
+  <em>
+  <a href='#' class='formatting_help_toggle'>
+    <span class='unexpanded'>Click here for more formatting help (lists, blockquotes, etc)</span>
+    <span class='expanded'>Hide formatting help</span>
+  </a>
+</em>
+
+  
+  <div class="extended_explanation_instructions" style="display:none">
+    <ul>
+    <li><p>Links:</p>
+      <pre>
+[Genius](http://genius.com) is my favorite site, [Kanye West's "Power"](http://genius.com/kanye-west-power-lyrics) is my favorite song and [From whippin' the bacon rolls to outside whippin' the bacon Rolls](1256) is my favorite line
+
+[[Kanye West]] auto-links his artist page
+[[Scarface "My Block"]] auto-links to the song
+</pre>
+    </li>
+
+    <li><p>Block quotes:</p>
+
+    <pre>In ["Juicy"](/The-notorious-big-juicy-lyrics), Biggie says:
+> It was all a dream
+I used to read Word Up magazine
+Salt'n'Pepa and Heavy D up in the limousine</pre></li>
+    <li><p>Numbered lists:</p>
+
+    <pre>
+The Best Rappers:
+1. Cam'ron
+2. Juelz Santana
+3. Lil Wayne
+</pre></li>
+    <li><p>Bulleted lists:</p>
+
+    <pre>
+Words for gun:
+- Gat
+- Glock
+- Nina
+</pre></li>
+    <li><p>Text size:
+      <pre>
+# Largest
+## Large
+### ...
+</pre></p>
+    </li>
+    </ul>
+    <em class="explanation_only"><a href="http://meta.genius.com/Genius-contributor-guidelines-annotated" target="_blank">More ways to make your annotations better</a></em>
+  </div>
+</div>
+</div>
+
+</div>
+
+    <div class="site_map">
+  <div class="site_map_primary">
+    <a href="/about">About Genius</a>
+    <a href="/embed_guide">Embed a Text</a>
+    <a href="/verified-artists">Verified Artists</a>
+    <a href="/contributor_guidelines">Contributor Guidelines</a>
+    <a href="/static/education">Education</a>
+  </div>
+  <div class="site_map_secondary">
+    
+    <a href="/jobs" class="jobs">Jobs</a>
+    <a href="/static/terms" class="terms_of_use" rel="nofollow" target="_blank">Terms of Use</a>
+    <a href="/static/privacy_policy" class="privacy_policy" rel="nofollow" target="_blank">Privacy Policy</a>
+    
+    <a href="/feedback/new" class="contact_us facebox" rel="nofollow">Contact us</a>
+    
+    <span class="copyright">&copy; 2014 Genius Media Group Inc.</span>
+  </div>
+</div>
+
+<div id="request_time" style="display:none">0.405</div>
+    <div style="display:none">
+  <img class="loading dark" data-src="/images/throbber.gif" />
+  <img style="display:none" data-src="/images/throbber-light.gif" />
+  <img style="display:none" data-src="/images/ajax-loader-mobile.gif" />
+</div>
+    <div style="display:none">
+  <div class="post_comment_message">
+    <h1>Ballin!</h1>
+    
+      <form action="/users" class="new_user" id="" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="agrlG7WUJdLr6nVjfFWpUXvIWoxhlYadDBv5g4+/uHw=" /></div>
+        <p class="sign_up_message">Tired of entering your email address? Create a Genius account and you'll never have to worry about it (or anything else) ever again:</p>
+
+        <label for="user_login">Nickname</label>
+<input class="required" id="user_login" name="user[login]" size="30" tabindex="1" title="Enter a nickname" type="text" />
+
+<label for="user_email">Email</label>
+<input class="required email" id="user_email" name="user[email]" size="30" tabindex="2" title="Enter your email address" type="text" />
+
+<label for="user_password">Password</label>
+<input class="required" id="user_password" name="user[password]" size="30" tabindex="3" title="Enter a password" type="password" />
+
+
+
+
+  <p class="message">
+    By clicking &ldquo;Create Account&rdquo;, you are indicating that you have
+    read and agree to the <a href='/static/terms' target="_blank">Terms of Service</a>.
+  </p>
+
+
+        <input id="user_submit" name="commit" type="submit" value="Create Account" /> 
+        <p>(Already have an account? <a href="/login" class="facebox">Sign in</a>)</p>
+      </form>
+    
+  </div>
+  
+  <div id='custom_cameratag_screens'>
+    <div id='accept-screen' class='cameratag_screen cameratag_accept'>
+      <a class="cameratag_accept_btn cameratag_publish"><span class="button_label">✓ Save Video</span></a>
+      <a class="cameratag_rerecord_btn cameratag_record"><span class="button_label">&#9679; Re-record Video</span></a>
+      <a class="cameratag_play_btn cameratag_play"><span class="button_label">&#9654; Watch Video Again</span></a>
+    </div>
+  </div>
+</div>
+  </div>
+<script type="text/javascript">
+  var addthis_config = {
+    // "data_track_clickback": true,
+    "data_track_clickback": false,
+    'username': 'rapgenius',
+    'ui_cobrand': "Genius"
+  };
+  
+  var addthis_share = {
+    templates: {
+      twitter: '{{title}} {{url}}'
+    }
+  };
+</script>
+
+
+
+  <script type="text/javascript">
+  _qoptions={
+    qacct:"p-f3CPQ6vHckedE"
+  };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+  <img src="http://pixel.quantserve.com/pixel/p-f3CPQ6vHckedE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+
+  
+
+<script type="text/javascript">
+
+  var _sf_async_config={};
+  
+  _sf_async_config.uid = 3877;
+  _sf_async_config.domain = 'genius.com';
+  _sf_async_config.title = 'Macklemore and Ryan Lewis – A Wake';
+  _sf_async_config.sections = 'rap,tag:rap';
+  _sf_async_config.authors = 'Macklemore,Macklemore and Ryan Lewis,Evan Roman';
+
+  var _cbq = window._cbq || [];
+
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+  
+<script type="text/javascript">
+  _atrk_opts = { atrk_acct:"w9qyh1acBa00aO", domain:"genius.com",dynamic: true};
+  (function() {
+    var as = document.createElement('script');
+    as.type = 'text/javascript';
+    as.async = true;
+    as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+    var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s);
+  })();
+</script>
+<noscript>
+  <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=w9qyh1acBa00aO" style="display:none" height="1" width="1" alt="" />
+</noscript>
+
+  
+
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17151659&cv=2.0&cj=1&c4=genius.com" />
+  <script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init('77967c52dc38186cc1aadebdd19e2a82');</script>
+
+
+
+
+
+
+  <div id="global_login"
+       style="display:none"
+       data-url="http://rapgenius.com/global_login"
+       data-domain="rapgenius.com">
+  </div>
+
+
+</body>
+</html>
